@@ -50,9 +50,6 @@
 <a href="https://music.youtube.com/playlist?list=PLamkYXE9TPmBWGjabXYKuTqwp___crrNa">Diversas</a></p>
 </br>
 
-<a href="https://badges.strrl.dev"><img alt="Repositórios no GitHub" src="https://badges.strrl.dev/repos/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-<a href="https://badges.strrl.dev"><img alt="Commits de  hoje" src="https://badges.strrl.dev/commits/daily/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-<a href="https://badges.strrl.dev"><img alt="commits este mês" src="https://badges.strrl.dev/commits/monthly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
 </div>
 
 <div alig="center">
