@@ -56,10 +56,6 @@
     <a href="https://github.com/SedaxGaming">
         <img height=180em src="https://streak-stats.demolab.com?user=SedaxGaming&theme=midnight-purple&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=450" alt="sequência de contribuições"/>
     </a>
-</br>
-    <a href="https://github.com/SedaxGaming">
-        <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=SedaxGaming&langs_count=10&theme=synthwave&card_width=980" alt="gráfico de linguagens mais usadas" />
-    </br>
 </div>
 
 <div align="center">
