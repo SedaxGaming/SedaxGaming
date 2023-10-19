@@ -17,8 +17,8 @@
 <a href="https://youtube.com/@sedaxGaming">
 <img alt="link para o meu canal no youtube" src="https://img.shields.io/youtube/channel/views/UCyoM-4CpvYD8QuwLYi6DtYQ" height="22px"</a>
 
-<a href="twitch.tv/SedaxGamingYT">
-<img alt="link das lives" src="https://img.shields.io/twitch/status/SedaxGamingYt" height="22px" /></a>
+<a href="https://twitch.tv/SedaxGamingYT">
+<img alt="link das lives" src="https://img.shields.io/twitch/status/SedaxGamingYt" height="22px"/></a>
 </div>
 
 <h2>:bulb: Linguagens & Frameworks que estou estudando/utilizando</h2>
@@ -42,7 +42,7 @@
 </br></br>
 
 <h2>:notes: Minhas playlists
-    
+
 <p>:zap: Não importa o meu humor, musica eletronica sempre irá me animar ou me deixar triste:<br>
 <a href="https://music.youtube.com/playlist?list=PLamkYXE9TPmBMYPSMEPIFwWc91K8wiYmS">Phonk</a><br>
 <a href="https://music.youtube.com/playlist?list=PLamkYXE9TPmCQNh_bQzF8ZWtxoH_AvbiL">Eletronicas</a><br>
