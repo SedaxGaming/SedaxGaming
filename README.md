@@ -15,7 +15,7 @@
 <img alt="Link para o meu Instagram" src="https://img.shields.io/twitter/follow/guisedaxsegalla?logo=instagram" height="22px"></a>
 
 <a href="https://youtube.com/@sedaxGaming">
-<img alt="link para o meu canal no youtube" src="https://img.shields.io/youtube/channel/views/UCyoM-4CpvYD8QuwLYi6DtYQ" height="22px"</a>
+<img alt="link para o meu canal no youtube" src="https://img.shields.io/youtube/channel/views/UCyoM-4CpvYD8QuwLYi6DtYQ" height="22px"></a>
 
 <a href="https://twitch.tv/SedaxGamingYT">
 <img alt="link das lives" src="https://img.shields.io/twitch/status/SedaxGamingYt" height="22px"/></a>
