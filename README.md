@@ -42,20 +42,17 @@
 </br></br>
 
 <h2>:notes: Minhas playlists
-
-<p>:zap: Não importa o meu humor, musica eletronica sempre irá me animar ou me deixar triste:<br>
-<a href="https://music.youtube.com/playlist?list=PLamkYXE9TPmBMYPSMEPIFwWc91K8wiYmS">Phonk</a><br>
-<a href="https://music.youtube.com/playlist?list=PLamkYXE9TPmCQNh_bQzF8ZWtxoH_AvbiL">Eletronicas</a><br>
-<a href="https://music.youtube.com/playlist?list=PLamkYXE9TPmCXvDNb83WLGPIngaywHvHM">Tristes</a><br>
-<a href="https://music.youtube.com/playlist?list=PLamkYXE9TPmBWGjabXYKuTqwp___crrNa">Diversas</a></p>
+<ul>
+    <li><a href="https://music.youtube.com/playlist?list=PLamkYXE9TPmBMYPSMEPIFwWc91K8wiYmS"> Phonk</a></li>
+    <li><a href="https://music.youtube.com/playlist?list=PLamkYXE9TPmCoYiYqVqh9eSBPLeL7W2za"> Electro</a></li> 
+    <li><a href="https://music.youtube.com/playlist?list=PLamkYXE9TPmA4hh5WpPlSS1t1cZQ_4K9s"> SadElectro</a></li> 
+    <li><a href="https://music.youtube.com/playlist?list=PLamkYXE9TPmBr1V8TqfVc-UuRgbT-lcJ8"> Dubstep</a> </li>
+    <li><a href="https://music.youtube.com/playlist?list=PLamkYXE9TPmCQNh_bQzF8ZWtxoH_AvbiL"> Eletronicas</a></li>
+    <li><a href="https://music.youtube.com/playlist?list=PLamkYXE9TPmCXvDNb83WLGPIngaywHvHM"> BadVibe</a></li>
+    <li><a href="https://music.youtube.com/playlist?list=PLamkYXE9TPmBWGjabXYKuTqwp___crrNa"> Diversas</a></li>
+</ul>
 </br>
 
-</div>
-
-<div alig="center">
-    <a href="https://github.com/SedaxGaming">
-        <img height=180em src="https://streak-stats.demolab.com?user=SedaxGaming&theme=midnight-purple&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=450" alt="sequência de contribuições"/>
-    </a>
 </div>
 
 <div align="center">
