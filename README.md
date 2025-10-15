@@ -1,7 +1,9 @@
 <div id="top"></div>
 
+
+
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=Eu+sou+o+Guilherme!;Análista+e+desenvolvedor+junior+;Desenvolvedor+Fullstack+brasileiro;" alt="Olá! Meu nome é Guilherme, análista e desenvolvedor de sistemas. Dev fullstack brasileiro sulista"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tektur&weight=650&pause=1000&color=D71AF7&background=28002A00&center=true&vCenter=true&width=435&lines=Guilherme+Segalla;Analista+e+desenvolvedor+de+sistemas;Full+stack+development" alt="Typing SVG" /></a>
 </div>
 
 <h2>:busts_in_silhouette: Chama!</h2>
